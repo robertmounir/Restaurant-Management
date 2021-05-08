@@ -1,0 +1,14 @@
+3  2  1  0  1
+5  1  1  0  1
+5  3  2  0  2
+6  4  4  0  4
+7  6  5  0  5
+8  5  4  0  4
+9  7  5  0  5
+11  8  5  0  5
+9  9  6  1  7
+11  10  7  0  7
+Orders: 10 [Norm: 5, Veg : 3, VIP : 2]
+Cooks: 6 [Norm: 1, Veg :2, VIP : 3, injured :0]
+Avg Wait = 1,  Avg Serv = 4.1
+Urgent orders :0, Auto - promoted : 0%
